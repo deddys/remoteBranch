@@ -1,1 +1,6 @@
 ---- Mencoba pull request 
+
+**** Menambahkan Text ******
+
+++++ Baris Baru Dalam branch Features +++++++
+----- Tmbahan aru -----
